@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MrVaxiZ
-- 👀 I’m interested in ... Crypto
-- 🌱 I’m currently learning ... C#
-- 💞️ I’m looking to collaborate on ... nothing I'm independent cat
-- 📫 How to reach me ... VaxiZ#4289
+- 👋 Hi, I’m @MrVaxiZ but my real name is Wiktor Kot
+- 👀 I’m interested in ... Game Development
+- 🌱 I’m currently learning ... C# and ASP.Net Core
+- 💞️ I’m looking to collaborate on ... anything that includes these technologies.
+- 📫 How to reach me ... Discord: VaxiZ#4289
 
