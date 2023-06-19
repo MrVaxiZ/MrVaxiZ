@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning ... Angular and ASP.Net Core   
 - 💞️ I’m looking to collaborate on ... anything that includes these technologies.    
 - 📫 How to reach me ... Discord: VaxiZ#4289
-- :heart_eyes: My website: [wiktor-kot.com](https://wiktor-kot.com/)
+- :heart_eyes: My website: [wiktor-kot.com](https://wiktor-kot.com/) 
  
