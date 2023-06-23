@@ -4,4 +4,3 @@
 - 💞️ I’m looking to collaborate on ... anything that includes these technologies.   
 - 📫 How to reach me ... Discord: VaxiZ#4289
 - :heart_eyes: My website: [wiktor-kot.com](https://wiktor-kot.com/) 
- 
