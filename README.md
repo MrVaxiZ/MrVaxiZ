@@ -2,5 +2,5 @@
 - 👀 I’m interested in ... Programming in C# mostly using .Net Core 
 - 🌱 I’m currently learning ... C++
 - 📫 How to reach me ... Discord: VaxiZ#4289 
-- :heart_eyes: My website: [wiktor-kot.com](https://wiktor-kot.com/) 
+- :heart_eyes: My website: [wiktor-kot.com](https://wiktor-kot.com/) (expired)
  
