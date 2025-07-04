@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MrVaxiZ but my real name is Wiktor Kot                                                                                                                                                                          
+- 👋 Hi, I’m @MrVaxiZ but my real name is Wiktor Kot                                                                                                                                                                           
 - ⚡  I’m performance freak focused on making my apps as fast as possible (also trying to make it readable).
 - ⏩ I’m writing mostly in C++ but C# I like too.
 - 📫 How to reach me ... Discord: VaxiZ#4289 
