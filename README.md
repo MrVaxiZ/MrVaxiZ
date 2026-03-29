@@ -1,5 +1,5 @@
 - 👋 Hi, I’m VaxiZ                
 - ⚡ I’m making apps. Some have usecases other not really. 
-- ⏩ I’m writing mostly in C++ but C# I like too.
+- ⏩ I’m writing mostly in C++ and C#.
 - 📫 How to reach me ... Discord: VaxiZ#4289 
 - :heart_eyes: My website: [wiktor-kot.com](https://wiktor-kot.com/) (under construction)
