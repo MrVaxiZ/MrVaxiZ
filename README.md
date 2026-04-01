@@ -1,4 +1,4 @@
-- 👋 Hi, I’m VaxiZ                    
+- 👋 Hi, I’m VaxiZ                     
 - ⚡ I’m making apps. Some have usecases other not really. 
 - ⏩ I’m writing mostly in C++ and C#.
 - 📫 How to reach me ... Discord: VaxiZ#4289 
